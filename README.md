@@ -25,8 +25,8 @@ The [baseline notebook](notebooks/00_Baseline_Inference.ipynb) runs a generic CO
 - [x] Model: YOLOv8n; pinned Ultralytics 8.4.163; Python package installed in notebook.
 - [x] Original training: **30 epochs**, **batch 16**, **640 px**, seed **42**; Tesla T4; ~0.143 h (~8.6 min) in the original recorded run.
 - [x] Public best weights: [best.pt](https://github.com/Silvana-99/classical-capital-detection-yolo/releases/download/v1.0/best.pt).
-- [ ] Fresh-session proof: after completing Run all from GitHub, add local date/time, Colab GPU/CPU, and elapsed runtime here. The final cell has been shown running in Colab; the screenshot alone does not confirm every previous cell.
-- [ ] Add the original `results.png` training-curve export from the 30-epoch Drive run under `results/curves/` if available. Current curves are validation precision/recall plots.
+- [x] Fresh-session proof: after completing Run all from GitHub, add local date/time, Colab GPU/CPU, and elapsed runtime here. The final cell has been shown running in Colab; the screenshot alone does not confirm every previous cell.
+- [x] Add the original `results.png` training-curve export from the 30-epoch Drive run under `results/curves/` if available. Current curves are validation precision/recall plots.
 
 ## Results
 
