@@ -1,0 +1,5 @@
+new_01_doric.jpg | expected: Doric | https://commons.wikimedia.org/wiki/File:Old_Athena_Temple_column_capitals_02.jpg
+new_02_doric.jpg | expected: Doric | https://commons.wikimedia.org/wiki/File:Poros_Museum_-_Doric_capital.JPG
+new_03_ionic.jpg | expected: Ionic | https://commons.wikimedia.org/wiki/File:Ionic_capital_Erechtheum,_Acropolis,_Athens,_Greece.jpg
+new_04_ionic.jpg | expected: Ionic | https://commons.wikimedia.org/wiki/File:Ionic_capital_(Church_of_St_Catherine,_Plaka)_on_February_25,_2022.jpg
+new_05_corinthian.jpg | expected: Corinthian | https://commons.wikimedia.org/wiki/File:Adriance_Memorial_Library_column_capital_detail.jpg

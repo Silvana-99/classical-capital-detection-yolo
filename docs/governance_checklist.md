@@ -1,0 +1,11 @@
+# Governance checklist
+
+- **Purpose and oversight:** Educational visual inventory of Doric, Ionic and Corinthian capitals. A person confirms all detections and missing cases.
+- **Privacy and consent:** Architectural photos may include passers-by, addresses or license plates. Inspect images before publication; omit or blur identifiable people and sensitive details. Do not use client/project photographs without permission.
+- **Data minimization:** Keep only images, necessary capital labels, source/attribution, and aggregate evaluation results. Avoid collecting faces, personal metadata, GPS, or client records.
+- **Rights:** Original Roboflow Universe Architecture Segmentation version 1 was presented as CC BY 4.0 at export; cite source and transformations, and confirm redistribution rights for individual photos. The five external Wikimedia Commons images have per-file licenses and attribution in `image_credits.md`. Do not treat the repo's code license as a license for third-party images or model dependencies.
+- **Limitations / when not to use:** This detector cannot classify a whole building style, assess structural safety, grant heritage status, survey all components reliably, or replace a qualified architect/conservator. Validation results may overestimate performance on unseen sites.
+- **Risk tradeoff:** False negatives omit capitals from an inventory and may mislead completeness estimates; false positives produce incorrect style counts and wasted review. Require human review; report both error types and new-image misses.
+- **Sharing and retention:** Publish only cleared images. Retain minimal provenance and checksum; remove contested or private material promptly and issue a corrected dataset version rather than silently changing the frozen ZIP.
+- **Security:** No Roboflow API key, Colab secret, or private Drive path is needed by the public notebook; revoke any credentials accidentally committed to git history.
+- **Software statement:** Project-specific text/notebooks are for educational/internal use unless a separate repository LICENSE grants more; Ultralytics and its model assets have their own license terms. Third-party imagery retains its individual licenses.
